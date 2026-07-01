@@ -1,0 +1,13 @@
+*.pyc
+*.npy
+*.npz
+*.zip
+__pycache__/
+plots/
+exports/
+results/
+readData.py
+Results/
+old/
+/paper_run_logs
+/.vscode
